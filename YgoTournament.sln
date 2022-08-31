@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YgoTournament", "YgoTournament\YgoTournament.csproj", "{2AEBFF9E-FE92-492F-A855-35F8DF7CB56F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{69A49FC8-CF5E-44A6-90F5-2B5ABCAB2E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunner", "TestRunner\TestRunner.csproj", "{73A128A5-4A51-4253-A87A-03B8E50F6EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AEBFF9E-FE92-492F-A855-35F8DF7CB56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEBFF9E-FE92-492F-A855-35F8DF7CB56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEBFF9E-FE92-492F-A855-35F8DF7CB56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEBFF9E-FE92-492F-A855-35F8DF7CB56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A49FC8-CF5E-44A6-90F5-2B5ABCAB2E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A49FC8-CF5E-44A6-90F5-2B5ABCAB2E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A49FC8-CF5E-44A6-90F5-2B5ABCAB2E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A49FC8-CF5E-44A6-90F5-2B5ABCAB2E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A128A5-4A51-4253-A87A-03B8E50F6EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A128A5-4A51-4253-A87A-03B8E50F6EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A128A5-4A51-4253-A87A-03B8E50F6EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A128A5-4A51-4253-A87A-03B8E50F6EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

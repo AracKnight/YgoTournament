@@ -9,6 +9,10 @@
         <Authors>Ananias Hildebrand</Authors>
         <Description>Provides a Tournament class to manage a YGO Tournament Local</Description>
         <Copyright>Ananias Hildebrand 2022</Copyright>
+        <PackageProjectUrl>https://github.com/AracKnight/YgoTournament</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/AracKnight/YgoTournament/blob/master/license.txt</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/AracKnight/YgoTournament</RepositoryUrl>
+        <RepositoryType>GitHub</RepositoryType>
     </PropertyGroup>
 
 </Project>
